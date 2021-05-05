@@ -34,6 +34,8 @@ def testy():
     print(p4.specjalnosc)
     pass
 
+#zadanie5 - dcts
+
 class Student():
     __licznik = 0
     #wejscie bac slash
